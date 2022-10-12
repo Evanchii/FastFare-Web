@@ -1,0 +1,9 @@
+td {
+    vertical-align: middle;
+}
+
+form .d-flex div {
+    flex-grow: 1;
+    flex-basis: 0;
+    margin: 1% 2%;
+}

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@kurkle/color": "^0.2.1",
+    "bs-toaster": "^1.0.5",
+    "chart.js": "^3.9.1",
+    "chartjs-adapter-luxon": "^1.2.0",
+    "luxon": "^3.0.4"
+  }
+}
